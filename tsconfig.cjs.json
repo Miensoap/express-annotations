@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "target": "ES6",
-    "module": "ESNext",
-    "declaration": false,
-    "outDir": "./dist/esm",
+    "module": "CommonJS",
+    "declaration": true,
+    "outDir": "./dist/cjs",
     "strict": true,
     "esModuleInterop": true,
     "moduleResolution": "Node",

@@ -1,0 +1,12 @@
+.idea
+
+node_modules
+src
+
+README.md
+
+tsconfig.json
+tsconfig.cjs.json
+tsconfig.esm.json
+
+*.test.ts
